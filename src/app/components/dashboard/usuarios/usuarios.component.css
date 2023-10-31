@@ -1,0 +1,19 @@
+table {
+    width: 100%;
+  }
+
+  .icons {
+    width: 200px;
+  }
+
+  .icons a{
+    margin-right: 4vh;
+    cursor: pointer;
+    color: rgb(22, 111, 228);
+  }
+  
+  .mat-mdc-form-field {
+    margin-top: 4vh;
+    font-size: 14px;
+    width: 100%;
+  }
